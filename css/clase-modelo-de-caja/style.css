@@ -1,0 +1,13 @@
+/* Resetear estilos que trae el navegador */
+* {
+    box-sizing: border-box; /* Hacer que el largo y ancho sea realmente el width y height */
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 100%;
+    height: 500px;
+    border: 10px solid grey;
+    padding: 20px 35px;
+}
